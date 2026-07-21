@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 improving my cybersecurity skills and learning to integrate AI into security workflows.<br>👯 I’m looking to collaborate on cybersecurity and AI related projects<br>🤝 I’m looking for help with industry use of cybersecurity tools and real-world AI adoption<br>🌱 I’m currently learning skills involved in cybersecurity and AI<br>⚡I have a keen interest in coding, investigating and robotics. <br> 🎯 CTF player — always chasing the next flag
+🔭 I’m currently working on improving my cybersecurity skills and learning to integrate AI into security workflows.<br>👯 I’m looking to collaborate on cybersecurity and AI related projects<br>🤝 I’m looking for help with industry use of cybersecurity tools and real-world AI adoption<br>🌱 I’m currently learning skills involved in cybersecurity and AI<br>⚡I have a keen interest in coding, investigating and robotics. <br> 🎯 CTF player — always chasing the next flag
 
 
 ## 🌐 Socials:
